@@ -1,6 +1,6 @@
 # :rocket: Hello World!
 
-You can call me Tesar. I am fulltime Software Engineer working at one of fintech company in Indonesia and part time gamer. Always keen on cutting edge web development technologies and endless learning. Love to contribute in any open source projects!
+You can call me Tesar. I am fulltime Software Engineer working at one of Online Travel Agent (OTA) company in Indonesia and part time gamer. Always keen on cutting edge web development technologies and endless learning. Love to contribute in any open source projects!
 
 ## :heartbeat: Things I Love
 
